@@ -1,0 +1,44 @@
+
+ .outer{
+		  width:960px;
+		  border:2px solid rgb(24, 51, 64);;
+		  margin: 0 auto;
+		  height:360px;
+		  margin-top:50px;
+		  background: white;
+	  }
+.heading{
+		 width:950px;
+		 border:2px solid rgb(24, 51, 64);;
+		 margin:0 auto;
+		 height:20px;
+		 margin-top:2px;
+		 background:rgb(24, 51, 64);;
+		 color:white;
+		 
+	 }	
+.btn{
+	padding: 5px;
+	font-size: 15px;
+	color:white;
+	background: rgb(24, 51, 64);ss;
+	border-radius: 5px;
+ 
+		 
+	 }	
+.btn:hover
+   {
+	   background-color:#3C67DE;
+   }   	 
+   
+   .in{
+	   
+	   width:50%;
+	   
+   }
+   
+   .myspace{
+	height:10px;
+   }
+
+    

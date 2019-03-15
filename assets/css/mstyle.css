@@ -1,0 +1,23 @@
+.top_bar{
+	background:#f26522; 
+	padding:5px 0px;
+}
+.contact{
+	color:#fff; 
+	font-size:16px;
+}
+.menu{
+margin-top:27px;
+
+}
+.menu .navbar-default{background:none; border:none;}
+ 
+.menu .navbar-nav .active a ,.menu .navbar-nav .active li a :hover {background:#f26522;color:#fff;}
+.menu .navbar-nav li a:hover{background:#f26522;color:#fff;}
+
+@media (max-width:1200px){
+.menu .pull-right{
+float:none !important;}
+}
+
+.images{background:radial-gradient(circle,#009cde,#003087);}
